@@ -3,4 +3,3 @@ if (arg === undefined) {
     console.log("No argument found");
 } else {
     console.log(arg);
-
